@@ -1,4 +1,4 @@
-Algoritmo Intereses Generados
+Algoritmo Intereses_Generados
     # Calcula los intereses generados por un capital
 
 Entrada
@@ -26,4 +26,4 @@ Realización:
 Postcondición:
     Ganancias > 0
 
-Fin Intereses Generados
+Fin Intereses_Generados

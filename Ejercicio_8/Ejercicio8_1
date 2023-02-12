@@ -1,4 +1,4 @@
-Algoritmo Calculo de IVA
+Algoritmo Calculo_de_IVA
     #Precio inicial, porcentaje de IVA
 
 Entrada
@@ -20,4 +20,4 @@ Realización:
 Postcondición:
     Precio > Precio inicial
 
-Fin Calculo de IVA
+Fin Calculo_de_IVA

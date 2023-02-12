@@ -1,4 +1,4 @@
-Algoritmo media ponderada
+Algoritmo media_ponderada
 
 Entrada
     Cifra: Entero
@@ -24,3 +24,5 @@ Realización:
 
 Postcondición:
     Media > 0
+
+Fin media_ponderada
