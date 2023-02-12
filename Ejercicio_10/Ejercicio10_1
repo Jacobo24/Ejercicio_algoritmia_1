@@ -15,7 +15,7 @@ Precondición
 Realización
     Resultado = (Lado x Altura) / 2
 
-Poscondición
+Postcondición
     Resultado = (Lado x Altura) / 2
 
 fin Área_del_triángulo
