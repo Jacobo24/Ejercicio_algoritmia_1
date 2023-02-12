@@ -1,0 +1,29 @@
+Algoritmo Intereses Generados
+    # Calcula los intereses generados por un capital
+
+Entrada
+    Ganacias: Entero
+
+Resultado: Ganancias
+
+Precindición:
+    Interés <- 0 < Interés < 100
+    Meses <- 0 < Meses < 12
+
+Variable:
+    Capital: Entero
+    Interés: Entero # 0-100
+    Meses: Entero # 0-12
+
+Realización:
+    Precio inicial <- Capital
+    Precio <- Capital
+    Para i <- 1 Hasta Meses Hacer
+        Precio <- Precio + Precio * Interés / 100
+    Fin Para
+    Ganancias <- Precio - Precio inicial
+
+Postcondición:
+    Ganancias > 0
+
+Fin Intereses Generados
