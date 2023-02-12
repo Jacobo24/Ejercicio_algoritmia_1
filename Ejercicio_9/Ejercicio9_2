@@ -1,0 +1,26 @@
+Algoritmo media ponderada
+
+Entrada
+    Cifra: Entero
+    Coeficiente: Entero
+
+Resultado: Media # de 3 números
+
+Precondición:
+    Cifra > 0
+    0 < Coeficiente < 100
+
+
+Variable
+    Cifra1: Entero
+    Cifra2: Entero
+    Cifra3: Entero
+    Coeficiente1: Entero
+    Coeficiente2: Entero
+    Coeficiente3: Entero
+
+Realización:
+    Media = (Cifra1 * Coeficiente1 + Cifra2 * Coeficiente2 + Cifra3 * Coeficiente3 )
+
+Postcondición:
+    Media > 0
